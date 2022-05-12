@@ -49,7 +49,7 @@
 		 		<?php } ?>
 	 		</tbody>
 		</table>
-	<br>
+	<br><br>
 		<main>
 			<a id='createFilm' href='<?=URL?>film/createFilm'>+ Voeg een film toe</a>
 		</main>

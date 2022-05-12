@@ -79,7 +79,9 @@ a {
 
 main{
   width:23%;
-  margin-left: 43%;
+  position: sticky;
+  bottom: 3%;
+  left: 43%;
 }
 
 main a#createGenre{
@@ -253,9 +255,9 @@ p.options{
 /* Table
 ---------------------------------------------------------------------------- */
   table{
-    position: absolute;
-    left: 20%;
-    width: 62.5%;
+    position: relative;
+    left: 0%;
+    width: 115%;
   }
 
   th{
