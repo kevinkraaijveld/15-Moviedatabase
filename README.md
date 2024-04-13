@@ -1,6 +1,6 @@
 PHP opdracht 5
 
-## Kalender PHP
+## Moviedatabase PHP
 Tijdens deze opdracht ga je een dynamische web applicatie ontwikkelen waar de bezoeker films inzien. Hierbij maak je gebruik van HTML, CSS en PHP.
 
 De opdracht bestaat uit twee type eisen, functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
@@ -8,7 +8,7 @@ De opdracht bestaat uit twee type eisen, functionele eisen en technische eisen. 
 ### Functionele eisen
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennisniveau.
 
-De functionele eisen zijn voor je uitgewerkt in [Trello](https://trello.com/b/ZXM8Ks2x/verjaardagskalender).
+De functionele eisen zijn voor je uitgewerkt in [Trello](https://trello.com/b/ZXM8Ks2x/moviedatabase).
 
 
 ### Technische eisen
